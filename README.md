@@ -1,4 +1,4 @@
-# Typescript Server Template
+# Typescript API Server Template
 
 This project is a template for typescript servers using express and mongoose. Keep in mind that most of the files here are just examples and should by any means be used in a real project. The entry point of the project is in the `src/index.ts` file. When the application starts, it will register `module-alias` (required to resolve typescript paths) and `dotenv` (required to read the `.env` file). It will then connect to a local database and spin up an http server on the port indicated by the `process.env.PORT` variable.
 The server exposes a couple of endpoints to be used as examples:
