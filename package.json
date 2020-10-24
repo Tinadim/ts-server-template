@@ -39,7 +39,7 @@
         "http-graceful-shutdown": "^2.3.2",
         "lodash": "^4.17.15",
         "module-alias": "^2.2.2",
-        "mongoose": "^5.9.16",
+        "mongoose": "^5.10.10",
         "ts-jest": "^26.0.0",
         "winston": "^3.2.1"
     },
