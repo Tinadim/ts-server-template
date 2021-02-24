@@ -40,7 +40,7 @@
         "lodash": "^4.17.20",
         "module-alias": "^2.2.2",
         "mongoose": "^5.10.12",
-        "ts-jest": "^26.4.3",
+        "ts-jest": "^26.5.2",
         "winston": "^3.3.3"
     },
     "_moduleAliases": {
