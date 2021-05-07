@@ -37,7 +37,7 @@
         "express": "^4.17.1",
         "express-promise-router": "^4.0.1",
         "http-graceful-shutdown": "^2.3.2",
-        "lodash": "^4.17.20",
+        "lodash": "^4.17.21",
         "module-alias": "^2.2.2",
         "mongoose": "^5.10.12",
         "ts-jest": "^26.4.3",
